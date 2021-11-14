@@ -1,2 +1,2 @@
 # over-the-wire_maze-solutions  
-Collab with [gil](https://github.com/dergil)  
+Collab with [vincemann](https://github.com/vincemann)  
